@@ -1,0 +1,14 @@
+aggr_type: mean
+batch_size: 2
+k1: 10
+d0: 10
+d1: 4
+d2: 10
+dataset: ./tmp/symbols_dataset_1_precomp_split_undersample_max_third/
+epochs: 20
+features: ''
+learning_rate: 0.01
+model: SortPool
+num_classes: num_classes
+num_layers: 2
+weight_decay: 1e-4

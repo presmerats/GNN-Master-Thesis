@@ -1,0 +1,12 @@
+dataset: ./tmp/symbols_dataset_1_precomp_split_undersample_max/
+features: ''
+learning_rate: 0.01
+weight_decay: 1e-4
+epochs: 200
+batch_size: 2
+num_layers: 2
+hidden: 8
+model: SortPool
+#num_features: 1
+thedataset: ''
+num_classes: 10
